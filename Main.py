@@ -1,7 +1,7 @@
+from Functions import *
+import copy
+
 def main():
-    
-    from Functions import *
-    import copy
     ans = [1,5,4,3]
     no_parent = 1000; e = 0.1; t = 0.8; m = 0.01 
     parent_dis = []; eval_all = []; eval_top20 = []
